@@ -4,4 +4,4 @@
 
 ![Add product](https://github.com/phenriquepaixao/Shopping-List/blob/master/images/add_product.png)
 
-![https://github.com/phenriquepaixao/Shopping-List/blob/master/images/product_list.png)
+![Products list](https://github.com/phenriquepaixao/Shopping-List/blob/master/images/product_list.png)
